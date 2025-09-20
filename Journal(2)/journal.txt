@@ -1,0 +1,15 @@
+AI Usage Journal
+Fatimah Shaw
+fshaw12@umd.edu
+Section 0203
+
+Week 1
+    This week I used AI to help me while brainstorming ideas for the group semester project.
+I used Chatgpt for ideas under the information retrieval and analysis category. One of my group members had 
+already brought up the idea of imrpoving spotify databases. Taking this into consideration, I used 
+Chatgpt to come up with the idea of diversity vs. popularity. Chatgpt helped point out how Spotify tends to recommend
+artists and genres that listeners are already familiar with, instead of exposing them to other artists worldwide. Using AI
+made it easier to narrow down our idea. https://chatgpt.com/share/68cf2bb0-a828-8002-951d-a7108e93dcbb 
+    I also used Chatgpt to explain one concept that I needed to review before doing the exercises. I needed a quick example
+how to use (s[start:end]). Sometimes its easier to visualize example code instead of having someone explain it conceptually. 
+https://chatgpt.com/share/68cf2d76-55f4-8002-8c5c-bc886b7f1a0d
