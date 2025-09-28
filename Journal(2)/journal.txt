@@ -13,3 +13,11 @@ made it easier to narrow down our idea. https://chatgpt.com/share/68cf2bb0-a828-
     I also used Chatgpt to explain one concept that I needed to review before doing the exercises. I needed a quick example
 how to use (s[start:end]). Sometimes its easier to visualize example code instead of having someone explain it conceptually. 
 https://chatgpt.com/share/68cf2d76-55f4-8002-8c5c-bc886b7f1a0d
+
+Week 2
+    This week, I didn't use AI as much as I thought I would need to. 
+I only used it to re-jog my memory for some of the week 2 exercises. There were some concepts that I needed a refresfer on.
+I mostly needed some assistance on the formatting of for loops, how to keep track of the current position in a list, and so on.
+I think going forward, I need to be more specific when giving chatgpt prompts. I don't like how it automatically would write out
+some code examples because I wanted to see how much I could remember on my own. However, I think it did do a good job at explaining 
+the concepts because I was able to successfully complete the exercises. https://chatgpt.com/share/68d99567-b6bc-8002-b422-800d6d4bd7d0 
